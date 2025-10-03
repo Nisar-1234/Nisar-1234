@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nisar-1234, creating teams to bring more value and change.
-- 👀 I’m interested in Software development, Data Tools and Crypto Mining.
+- 👀 I’m interested in Software development, Data Tools and Generative AI.
 - 🌱 I’m currently learning to grow technically and professionally.
-- 💞️ I’m looking to collaborate on developing AI.
+- 💞️ I’m looking to collaborate on developing GEN AI.
 - 📫 How to reach me 📧mohammednisar623@gmail.com, :- https://www.linkedin.com/in/nisaruddin-mohammed-2b2150137/, https://leetcode.com/mohammednisar623/
 
 <!---
